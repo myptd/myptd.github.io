@@ -1,8 +1,5 @@
 # Memoirs Jekyll Theme by WowThemes - Change Log
 
-## 2021-24-24, v1.0.3
-- pagination, analytics, authors list
-
 ## 2020-05-06, v1.0.2
 - jquery 3.5.1
 
